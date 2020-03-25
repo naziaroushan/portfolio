@@ -1,2 +1,2 @@
-# Portfolio
-Developing portfolio site from Adobe XD prototype
+# Portfolio site
+Developing portfolio site in atom from Adobe XD prototype
